@@ -1,0 +1,2 @@
+# DuckLife
+There once was a young mind who itched to create. He wrote and wrote in his composition books but knew that writing alone wasn't going to get him anywhere, so he search. Google, the golden search engine with a few rock sediments still in it, the perfect place to start his search. Lead to youtube,  he watched all sorts of coding examples and comments and about how easy it was and their benefits. Eventually was lead to FreeCodeCamp.com which is making him write a short story of his journy. . . .Here i am World. FWM
